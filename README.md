@@ -1,3 +1,3 @@
 # Apexcharts.DotNet8
 
-Sample project BlazorApex-Charts using .net8 in WASM
+Sample project Blazor-ApexCharts using .net8 in WASM
